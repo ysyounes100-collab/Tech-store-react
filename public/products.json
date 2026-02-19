@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "title": "Dell Ultra Sharp 27 Monitor",
+    "price": 289,
+    "description": "27-inch QHD IPS monitor with 2560x1440 resolution, ultra-thin bezels and excellent color accuracy. Ideal for productivity, design work, and immersive entertainment experiences.",
+    "category": "electronics",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/s2722dc/media-gallery/s2722dc_cfp_00025rf095_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=829&qlt=100,1&resMode=sharp2&size=829,804&chrss=full",
+    "rating": { "rate": 4.6, "count": 134 }
+  },
+  {
+    "id": 2,
+    "title": "Samsung 24 Full HD Monitor",
+    "price": 179,
+    "description": "24-inch Full HD monitor delivering sharp visuals and vibrant colors. Perfect for office work, browsing, streaming, and everyday tasks.",
+    "category": "electronics",
+    "image": "https://images.samsung.com/is/image/samsung/ie-monitor-sr352-ls24r352fhuxen-frontblack-261155251?$Q90_1248_936_F_PNG$",
+    "rating": { "rate": 4.3, "count": 98 }
+  },
+  {
+    "id": 3,
+    "title": "Logitech MX Master 3 Mouse",
+    "price": 99,
+    "description": "Advanced wireless mouse designed for productivity with ergonomic comfort, ultra-fast scrolling, and multi-device connectivity.",
+    "category": "electronics",
+    "image": "https://shop.mdpcloud.com/media/mf_webp/png/media/catalog/product/cache/5478421fc5a9b463503871e8994ee105/b/3/b33827-m_master_product_gallery_mild_grey_3_4_front.webp",
+    "rating": { "rate": 3.9, "count": 201 }
+  },
+  {
+    "id": 4,
+    "title": "Razer DeathAdder Gaming Mouse",
+    "price": 59,
+    "description": "High-precision gaming mouse with RGB lighting and ultra-responsive sensor. Built for competitive gaming and smooth control.",
+    "category": "electronics",
+    "image": "https://assets.razerzone.com/press/deathadder/razer-deathadder-elite.png",
+    "rating": { "rate": 4.5, "count": 150 }
+  },
+  {
+    "id": 5,
+    "title": "Corsair Mechanical Keyboard",
+    "price": 129,
+    "description": "RGB mechanical keyboard featuring durable switches, customizable lighting effects, and solid aluminum frame construction.",
+    "category": "electronics",
+    "image": "https://www.tpstech.in/cdn/shop/products/CORSAIR-K70-LUX-RGB-CPU-Fan-Original-India-Cheapest-Online-Free-Delivery-TPS-The-Peripheral-Store-ThePeripheralStore-1.png?v=1571608950",
+    "rating": { "rate": 4.7, "count": 175 }
+  },
+  {
+    "id": 6,
+    "title": "HP 450 Programmable Wireless Keyboard",
+    "price": 49,
+    "description": "Slim wireless keyboard with long battery life, quiet typing experience, and modern minimalist design for home and office use.",
+    "category": "electronics",
+    "image": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08163559_1750x1285.jpg",
+    "rating": { "rate": 4.2, "count": 88 }
+  },
+  {
+    "id": 7,
+    "title": "WD 2TB External Hard Drive",
+    "price": 89,
+    "description": "Portable 2TB external hard drive with USB 3.0 connectivity. Perfect for backups, media storage, and expanding your digital space.",
+    "category": "electronics",
+    "image": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/portable/my-passport/gallery/black/1-2tb/MyPassport-1TB-2TB-Black-Hero.png",
+    "rating": { "rate": 4.4, "count": 120 }
+  },
+  {
+    "id": 8,
+    "title": "Seagate Expansion 1TB Portable HDD",
+    "price": 99,
+    "description": "Compact and reliable 1TB external hard drive with fast data transfer speeds and lightweight design.",
+    "category": "electronics",
+    "image": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/external-hard-drives/one-touch-external-drives/_shared/images/seagate-one-touch-ssd-black-front.png",
+    "rating": { "rate": 4.3, "count": 92 }
+  },
+  {
+    "id": 9,
+    "title": "Samsung 1TB SSD",
+    "price": 139,
+    "description": "High-speed 1TB solid state drive delivering fast boot times, improved system responsiveness, and reliable performance.",
+    "category": "electronics",
+    "image": "https://media.flixcar.com/webp/synd-asset/Samsung-75679087-ca-portable-ssd-t7-usb-3-2-mu-pc1t0t-am-frontgray-230075674--Download-Source-zoom.png",
+    "rating": { "rate": 4.9, "count": 210 }
+  },
+  {
+    "id": 10,
+    "title": "Kingston 500GB SSD",
+    "price": 89,
+    "description": "Reliable 500GB SATA SSD offering improved performance, faster load times, and enhanced durability.",
+    "category": "electronics",
+    "image": "https://e2zstore.com/wp-content/uploads/2025/07/SNV3SM3.jpg",
+    "rating": { "rate": 4.6, "count": 143 }
+  },
+  {
+    "id": 11,
+    "title": "ASUS Gaming Laptop",
+    "price": 1199,
+    "description": "High-performance gaming laptop equipped with powerful processor, RTX graphics card, fast SSD storage, and immersive display.",
+    "category": "electronics",
+    "image": "https://dlcdnwebimgs.asus.com/gain/686260B2-E052-4E90-A287-6B829AE850B3",
+    "rating": { "rate": 4.7, "count": 67 }
+  },
+  {
+    "id": 12,
+    "title": "Apple MacBook Air M2",
+    "price": 1299,
+    "description": "Lightweight premium laptop powered by Apple M2 chip, featuring Retina display, silent performance, and all-day battery life.",
+    "category": "electronics",
+    "image": "https://ipowerresale.com/cdn/shop/files/media_8f5eb535-1282-4512-9c5e-7353616f3bfc.png?v=1766096141",
+    "rating": { "rate": 4.8, "count": 95 }
+  },
+  {
+    "id": 13,
+    "title": "TP-Link WiFi 6 Router",
+    "price": 149,
+    "description": "High-speed WiFi 6 router delivering improved coverage, stable connections, and smooth streaming for modern smart homes.",
+    "category": "electronics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pAlFO_VcyXnAkkTGQLdTO1cE7LleNwmXmg&s",
+    "rating": { "rate": 4.5, "count": 110 }
+  },
+  {
+    "id": 14,
+    "title": "iPhone 17 Pro Max",
+    "price": 1299,
+    "description": "Premium smartphone featuring powerful performance, advanced camera system, stunning OLED display, and long-lasting battery life.",
+    "category": "electronics",
+    "image": "https://f.fcdn.app/imgs/4db0e8/www.zonatecno.com.uy/zoteuy/9b06/original/catalogo/108435_108435_1/1500-1500/celular-apple-iphone-17-pro-max-256gb-12gb-blue-celular-apple-iphone-17-pro-max-256gb-12gb-blue.jpg",
+    "rating": { "rate": 4.3, "count": 75 }
+  },
+  {
+    "id": 15,
+    "title": "Sony Noise Headphones",
+    "price": 249,
+    "description": "Wireless over-ear headphones with advanced active noise cancelling, rich sound quality, and long battery life.",
+    "category": "electronics",
+    "image": "https://d1ncau8tqf99kp.cloudfront.net/converted/110696_original_local_1200x1050_v3_converted.webp",
+    "rating": { "rate": 4.8, "count": 180 }
+  },
+  {
+    "id": 16,
+    "title": "JBL Bluetooth Speaker",
+    "price": 219,
+    "description": "Portable waterproof Bluetooth speaker delivering powerful bass and clear sound. Perfect for outdoor parties, travel, and everyday music streaming.",
+    "category": "electronics",
+    "image": "https://www.pngarts.com/files/12/Portable-Bluetooth-Speaker-Transparent-Images.png",
+    "rating": { "rate": 4.6, "count": 160 }
+  },
+  {
+    "id": 17,
+    "title": "Sony HD Webcam",
+    "price": 279,
+    "description": "Full HD webcam designed for video meetings, streaming, and online classes. Provides sharp image quality and smooth performance in various lighting conditions.",
+    "category": "electronics",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/070/649/288/small/professional-dslr-camera-with-lens-on-transparent-background-png.png",
+    "rating": { "rate": 4.4, "count": 140 }
+  },
+  {
+    "id": 18,
+    "title": "Canon PIXMA Printer",
+    "price": 699,
+    "description": "All-in-one wireless inkjet printer supporting printing, scanning, and copying. Ideal for home offices and students needing reliable document printing.",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51bJI73HOML._AC_UF1000,1000_QL80_.jpg",
+    "rating": { "rate": 4.2, "count": 60 }
+  },
+  {
+    "id": 19,
+    "title": "AMD Ryzen 7 Processor",
+    "price": 329,
+    "description": "High-performance 8-core desktop processor built for gaming, multitasking, and content creation with excellent speed and efficiency.",
+    "category": "electronics",
+    "image": "https://i.ebayimg.com/images/g/KygAAOSwuQhhvwke/s-l1200.jpg",
+    "rating": { "rate": 4.9, "count": 112 }
+  },
+  {
+    "id": 20,
+    "title": "NVIDIA RTX 4070 Card",
+    "price": 849,
+    "description": "Next-generation graphics card delivering high FPS gaming, ray tracing support, and exceptional performance for creators and gamers.",
+    "category": "electronics",
+    "image": "https://www.workstationspecialist.com/wp-content/uploads/2023/04/GIGABYTE_GeForce_RTX_4070_GAMING_OC_12G_Card_And_Box.jpg.webp",
+    "rating": { "rate": 4.8, "count": 89 }
+  },
+  {
+    "id": 21,
+    "title": "HP Laptop Core i5 11th Gen",
+    "price": 1099,
+    "description": "Premium ultra-light business laptop featuring Intel Core processor, durable carbon fiber design, and enterprise security features.",
+    "category": "electronics",
+    "image": "https://pe-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/8/4/84A51LA_1.jpg",
+    "rating": { "rate": 4.7, "count": 84 }
+  },
+  {
+    "id": 22,
+    "title": "Acer Predator Gaming Monitor 165Hz",
+    "price": 499,
+    "description": "27-inch gaming monitor with 165Hz refresh rate, 1ms response time, and smooth gameplay performance.",
+    "category": "electronics",
+    "image": "https://i5.walmartimages.com/seo/Acer-Predator-XB273U-GSbmiiprzx-27-16-9-WQHD-165Hz-IPS-LED-Gaming-Monitor-with-G-SYNC-and-Built-In-Speakers-2560-x-1440-Black-Open-Box_83761354-acb7-48c3-84f9-904d60ee4f7f.6100bd2ad52120e33ce38b708b7db4cb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "rating": { "rate": 4.6, "count": 73 }
+  },
+  {
+    "id": 23,
+    "title": "SteelSeries Gaming Headset",
+    "price": 279,
+    "description": "High-quality gaming headset with surround sound, noise-cancelling microphone, and comfortable ear cushions.",
+    "category": "electronics",
+    "image": "https://media.steelseriescdn.com/thumbs/catalog/items/61567/e77585a43f2c4e58964d33873037643a.png.500x400_q100_crop-fit_optimize.png",
+    "rating": { "rate": 4.5, "count": 102 }
+  },
+  {
+    "id": 24,
+    "title": "iPad Air 5th Gen M1 Chip 5G",
+    "price": 899,
+    "description": "Powerful tablet featuring Apple M1 chip, 10.9-inch Liquid Retina display, and support for Apple Pencil.",
+    "category": "electronics",
+    "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-ipad-air-5-2022-10-9-pink.png?v=13604f91",
+    "rating": { "rate": 4.8, "count": 120 }
+  },
+  {
+    "id": 25,
+    "title": "Logitech Brio 4K Business Webcam",
+    "price": 449,
+    "description": "Ultra HD 4K webcam with HDR support, autofocus, and crystal-clear video conferencing quality.",
+    "category": "electronics",
+    "image": "https://resource.logitech.com/content/dam/logitech/en/products/webcams/brio-505/gallery/brio-505-gallery-graphite-1.png",
+    "rating": { "rate": 4.4, "count": 95 }
+  },
+  {
+    "id": 26,
+    "title": "Samsung 2TB Portable SSD T7",
+    "price": 229,
+    "description": "High-speed portable SSD with USB 3.2 connectivity, durable metal casing, and secure password protection.",
+    "category": "electronics",
+    "image": "https://zstrategy.ma/en/208-large_default/samsung-t7-shield-portable-ssd-external.jpg",
+    "rating": { "rate": 4.9, "count": 140 }
+  },
+  {
+    "id": 27,
+    "title": "MSI Gaming Mouse Pad GD72",
+    "price": 119,
+    "description": "Advanced motherboard supporting latest AMD processors, PCIe 4.0, DDR5 memory, and optimized cooling design.",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51DffwNxH-L._AC_UF894,1000_QL80_.jpg",
+    "rating": { "rate": 4.1, "count": 58 }
+  },
+  {
+    "id": 28,
+    "title": "Intel Core i7 13700K Processor",
+    "price": 419,
+    "description": "13th Gen Intel processor with high clock speeds and multi-core performance ideal for gaming and heavy workloads.",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/612rDWKp8-L.jpg",
+    "rating": { "rate": 4.6, "count": 77 }
+  }
+]
