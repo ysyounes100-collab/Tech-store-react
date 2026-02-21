@@ -7,7 +7,7 @@ export default function Home() {
   const [search ,setSearch] = useState("");
 
   useEffect(() => {
-    fetch("/products.json?timestamp=" + new Date().getTime())
+    fetch("/products.json")
       .then(res => res.json())
       .then(data => setProducts(data));
   }, []);

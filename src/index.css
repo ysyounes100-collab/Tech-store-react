@@ -73,10 +73,10 @@ nav a:hover{
 }
 
 .card img {
-    height:200px;
+    height:205px;
     object-fit:contain; 
-    margin-left: -5px;
-    width: 250px;
+    margin-left: -15.1px;
+    width: 270px;
     
 
 }
@@ -213,5 +213,132 @@ h3{
     width: 1000%;
 }
 
+@media (max-width: 1024px) {
 
+    .products {
+      grid-template-columns: repeat(2, 1fr);
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 100px;
+    }
+  
+    .details {
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .search-div {
+      margin-left: 0;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+  
+    .search-bar {
+      width: 60%;
+    }
+  
+    .navbar {
+      padding: 15px;
+    }
+  
+    nav a {
+      font-size: 18px;
+      margin-right: 20px;
+    }
+  
+  }
+  
+  
+  @media (max-width: 768px) {
+
+    body{
+        overflow-x: hidden;
+    }
+
+    .navbar {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      display: flex;
+      position: fixed;
+    }
+  
+    .nav {
+      margin-left: 50px;
+      margin-top: -40px;
+    }
+  
+    nav a {
+      display: inline-block;
+      margin: 10px;
+      font-size: 16px;
+    }
+  
+    .logo {
+      width: 120px;
+      margin-left: -285px;
+    }
+  
+    .products {
+      grid-template-columns: 1fr;
+      margin-left: 15px;
+      margin-right: 15px;
+      margin-top: 100px;
+      
+    }
+  
+    .card img {
+      width: 100%;
+      height: 180px;
+      margin-left: 0;
+    }
+  
+    .add_to_cart {
+      width: 100%;
+    }
+  
+    .remove-button {
+      width: 20%;
+      margin-left: 0;
+      margin-top: 10px;
+      margin-bottom: 25px;
+    }
+  
+    .search-bar {
+      width: 90%;
+      font-size: 18px;
+    }
+  
+    .cart {
+      font-size: 16px;
+      margin-left: 10px;
+      margin-top:100px;
+    }
+  
+    #total {
+      font-size: 22px;
+      margin-top: 45px;
+    }
+  
+  }
+  
+  
+  @media (min-width: 1400px) {
+  
+    .products {
+      grid-template-columns: repeat(4, 1fr);
+      max-width: 1400px;
+      margin: 120px auto;
+    }
+  
+    .navbar {
+      padding: 25px 80px;
+    }
+  
+    nav a {
+      font-size: 22px;
+    }
+  
+  }
 

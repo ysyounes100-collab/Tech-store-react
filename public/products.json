@@ -28,49 +28,50 @@
   },
   {
     "id": 4,
-    "title": "Razer DeathAdder Gaming Mouse",
-    "price": 59,
-    "description": "High-precision gaming mouse with RGB lighting and ultra-responsive sensor. Built for competitive gaming and smooth control.",
-    "category": "electronics",
-    "image": "https://assets.razerzone.com/press/deathadder/razer-deathadder-elite.png",
-    "rating": { "rate": 4.5, "count": 150 }
-  },
-  {
-    "id": 5,
-    "title": "Corsair Mechanical Keyboard",
-    "price": 129,
-    "description": "RGB mechanical keyboard featuring durable switches, customizable lighting effects, and solid aluminum frame construction.",
-    "category": "electronics",
-    "image": "https://www.tpstech.in/cdn/shop/products/CORSAIR-K70-LUX-RGB-CPU-Fan-Original-India-Cheapest-Online-Free-Delivery-TPS-The-Peripheral-Store-ThePeripheralStore-1.png?v=1571608950",
-    "rating": { "rate": 4.7, "count": 175 }
-  },
+      "title": "HP Laptop Core i5 11th Gen",
+      "price": 1099,
+      "description": "Premium ultra-light business laptop featuring Intel Core processor, durable carbon fiber design, and enterprise security features.",
+      "category": "electronics",
+      "image": "https://pe-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/8/4/84A51LA_1.jpg",
+      "rating": { "rate": 4.7, "count": 84 }
+    },
+    {
+      "id": 5,
+      "title": "Apple MacBook Air M2 Laptop",
+      "price": 1299,
+      "description": "Lightweight premium laptop powered by Apple M2 chip, featuring Retina display, silent performance, and all-day battery life.",
+      "category": "electronics",
+      "image": "https://ipowerresale.com/cdn/shop/files/media_8f5eb535-1282-4512-9c5e-7353616f3bfc.png?v=1766096141",
+      "rating": { "rate": 4.8, "count": 95 }
+    },
   {
     "id": 6,
-    "title": "HP 450 Programmable Wireless Keyboard",
-    "price": 49,
-    "description": "Slim wireless keyboard with long battery life, quiet typing experience, and modern minimalist design for home and office use.",
+    "title": "Acer Predator Gaming Monitor 165Hz",
+    "price": 499,
+    "description": "27-inch gaming monitor with 165Hz refresh rate, 1ms response time, and smooth gameplay performance.",
     "category": "electronics",
-    "image": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08163559_1750x1285.jpg",
-    "rating": { "rate": 4.2, "count": 88 }
+    "image": "https://i5.walmartimages.com/seo/Acer-Predator-XB273U-GSbmiiprzx-27-16-9-WQHD-165Hz-IPS-LED-Gaming-Monitor-with-G-SYNC-and-Built-In-Speakers-2560-x-1440-Black-Open-Box_83761354-acb7-48c3-84f9-904d60ee4f7f.6100bd2ad52120e33ce38b708b7db4cb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "rating": { "rate": 4.6, "count": 73 }
   },
   {
     "id": 7,
-    "title": "WD 2TB External Hard Drive",
-    "price": 89,
-    "description": "Portable 2TB external hard drive with USB 3.0 connectivity. Perfect for backups, media storage, and expanding your digital space.",
+    "title": "SteelSeries Gaming Headset",
+    "price": 279,
+    "description": "High-quality gaming headset with surround sound, noise-cancelling microphone, and comfortable ear cushions.",
     "category": "electronics",
-    "image": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/portable/my-passport/gallery/black/1-2tb/MyPassport-1TB-2TB-Black-Hero.png",
-    "rating": { "rate": 4.4, "count": 120 }
+    "image": "https://media.steelseriescdn.com/thumbs/catalog/items/61567/e77585a43f2c4e58964d33873037643a.png.500x400_q100_crop-fit_optimize.png",
+    "rating": { "rate": 4.5, "count": 102 }
   },
   {
     "id": 8,
-    "title": "Seagate Expansion 1TB Portable HDD",
-    "price": 99,
-    "description": "Compact and reliable 1TB external hard drive with fast data transfer speeds and lightweight design.",
+    "title": "iPad Air 5th Gen M1 Chip 5G",
+    "price": 899,
+    "description": "Powerful tablet featuring Apple M1 chip, 10.9-inch Liquid Retina display, and support for Apple Pencil.",
     "category": "electronics",
-    "image": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/external-hard-drives/one-touch-external-drives/_shared/images/seagate-one-touch-ssd-black-front.png",
-    "rating": { "rate": 4.3, "count": 92 }
+    "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-ipad-air-5-2022-10-9-pink.png?v=13604f91",
+    "rating": { "rate": 4.8, "count": 120 }
   },
+  
   {
     "id": 9,
     "title": "Samsung 1TB SSD",
@@ -100,12 +101,12 @@
   },
   {
     "id": 12,
-    "title": "Apple MacBook Air M2",
+    "title": "iPhone 17 Pro Max",
     "price": 1299,
-    "description": "Lightweight premium laptop powered by Apple M2 chip, featuring Retina display, silent performance, and all-day battery life.",
+    "description": "Premium smartphone featuring powerful performance, advanced camera system, stunning OLED display, and long-lasting battery life.",
     "category": "electronics",
-    "image": "https://ipowerresale.com/cdn/shop/files/media_8f5eb535-1282-4512-9c5e-7353616f3bfc.png?v=1766096141",
-    "rating": { "rate": 4.8, "count": 95 }
+    "image": "https://f.fcdn.app/imgs/4db0e8/www.zonatecno.com.uy/zoteuy/9b06/original/catalogo/108435_108435_1/1500-1500/celular-apple-iphone-17-pro-max-256gb-12gb-blue-celular-apple-iphone-17-pro-max-256gb-12gb-blue.jpg",
+    "rating": { "rate": 4.3, "count": 75 }
   },
   {
     "id": 13,
@@ -118,12 +119,12 @@
   },
   {
     "id": 14,
-    "title": "iPhone 17 Pro Max",
-    "price": 1299,
-    "description": "Premium smartphone featuring powerful performance, advanced camera system, stunning OLED display, and long-lasting battery life.",
+    "title": "Razer DeathAdder Gaming Mouse",
+    "price": 59,
+    "description": "High-precision gaming mouse with RGB lighting and ultra-responsive sensor. Built for competitive gaming and smooth control.",
     "category": "electronics",
-    "image": "https://f.fcdn.app/imgs/4db0e8/www.zonatecno.com.uy/zoteuy/9b06/original/catalogo/108435_108435_1/1500-1500/celular-apple-iphone-17-pro-max-256gb-12gb-blue-celular-apple-iphone-17-pro-max-256gb-12gb-blue.jpg",
-    "rating": { "rate": 4.3, "count": 75 }
+    "image": "https://assets.razerzone.com/press/deathadder/razer-deathadder-elite.png",
+    "rating": { "rate": 4.5, "count": 150 }
   },
   {
     "id": 15,
@@ -181,39 +182,39 @@
   },
   {
     "id": 21,
-    "title": "HP Laptop Core i5 11th Gen",
-    "price": 1099,
-    "description": "Premium ultra-light business laptop featuring Intel Core processor, durable carbon fiber design, and enterprise security features.",
+    "title": "Corsair Mechanical Keyboard",
+    "price": 129,
+    "description": "RGB mechanical keyboard featuring durable switches, customizable lighting effects, and solid aluminum frame construction.",
     "category": "electronics",
-    "image": "https://pe-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/8/4/84A51LA_1.jpg",
-    "rating": { "rate": 4.7, "count": 84 }
+    "image": "https://www.tpstech.in/cdn/shop/products/CORSAIR-K70-LUX-RGB-CPU-Fan-Original-India-Cheapest-Online-Free-Delivery-TPS-The-Peripheral-Store-ThePeripheralStore-1.png?v=1571608950",
+    "rating": { "rate": 4.7, "count": 175 }
   },
   {
     "id": 22,
-    "title": "Acer Predator Gaming Monitor 165Hz",
-    "price": 499,
-    "description": "27-inch gaming monitor with 165Hz refresh rate, 1ms response time, and smooth gameplay performance.",
+    "title": "HP 450 Programmable Wireless Keyboard",
+    "price": 49,
+    "description": "Slim wireless keyboard with long battery life, quiet typing experience, and modern minimalist design for home and office use.",
     "category": "electronics",
-    "image": "https://i5.walmartimages.com/seo/Acer-Predator-XB273U-GSbmiiprzx-27-16-9-WQHD-165Hz-IPS-LED-Gaming-Monitor-with-G-SYNC-and-Built-In-Speakers-2560-x-1440-Black-Open-Box_83761354-acb7-48c3-84f9-904d60ee4f7f.6100bd2ad52120e33ce38b708b7db4cb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-    "rating": { "rate": 4.6, "count": 73 }
+    "image": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08163559_1750x1285.jpg",
+    "rating": { "rate": 4.2, "count": 88 }
   },
   {
     "id": 23,
-    "title": "SteelSeries Gaming Headset",
-    "price": 279,
-    "description": "High-quality gaming headset with surround sound, noise-cancelling microphone, and comfortable ear cushions.",
+    "title": "WD 2TB External Hard Drive",
+    "price": 89,
+    "description": "Portable 2TB external hard drive with USB 3.0 connectivity. Perfect for backups, media storage, and expanding your digital space.",
     "category": "electronics",
-    "image": "https://media.steelseriescdn.com/thumbs/catalog/items/61567/e77585a43f2c4e58964d33873037643a.png.500x400_q100_crop-fit_optimize.png",
-    "rating": { "rate": 4.5, "count": 102 }
+    "image": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/portable/my-passport/gallery/black/1-2tb/MyPassport-1TB-2TB-Black-Hero.png",
+    "rating": { "rate": 4.4, "count": 120 }
   },
   {
     "id": 24,
-    "title": "iPad Air 5th Gen M1 Chip 5G",
-    "price": 899,
-    "description": "Powerful tablet featuring Apple M1 chip, 10.9-inch Liquid Retina display, and support for Apple Pencil.",
+    "title": "Seagate Expansion 1TB Portable HDD",
+    "price": 99,
+    "description": "Compact and reliable 1TB external hard drive with fast data transfer speeds and lightweight design.",
     "category": "electronics",
-    "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-ipad-air-5-2022-10-9-pink.png?v=13604f91",
-    "rating": { "rate": 4.8, "count": 120 }
+    "image": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/external-hard-drives/one-touch-external-drives/_shared/images/seagate-one-touch-ssd-black-front.png",
+    "rating": { "rate": 4.3, "count": 92 }
   },
   {
     "id": 25,
@@ -251,4 +252,5 @@
     "image": "https://m.media-amazon.com/images/I/612rDWKp8-L.jpg",
     "rating": { "rate": 4.6, "count": 77 }
   }
+    
 ]
